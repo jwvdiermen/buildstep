@@ -21,6 +21,9 @@ libssl-dev
 libssl0.9.8
 libxml2-dev
 libxslt-dev
+libcurl4-gnutls-dev
+libfreetype6-dev
+zlib1g-dev
 mercurial
 mysql-client
 netcat-openbsd
