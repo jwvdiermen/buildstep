@@ -9,9 +9,13 @@ ed
 git
 imagemagick
 iputils-tracepath
+libcurl4-openssl-dev
 libevent-dev
 libglib2.0-dev
 libjpeg-dev
+libjpeg62
+libpng12-0
+libpng12-dev
 libmagickcore-dev
 libmagickwand-dev
 libmysqlclient-dev
